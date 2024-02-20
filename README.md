@@ -18,8 +18,6 @@ The purpose of the project is to perform sentiment analysis on the IMDB dataset 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project.
-
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 * ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 * ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
